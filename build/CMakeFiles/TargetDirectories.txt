@@ -1,0 +1,3 @@
+/home/i/i_rora/code/build/CMakeFiles/rebuild_cache.dir
+/home/i/i_rora/code/build/CMakeFiles/edit_cache.dir
+/home/i/i_rora/code/build/CMakeFiles/seg.dir
